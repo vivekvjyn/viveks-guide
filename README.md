@@ -7,3 +7,5 @@
 2. Login to Zenodo and create a new record
 
 ![Plus Button](res/plus-btn.png)
+
+![Plus Button](res/upload.png)
