@@ -1,6 +1,7 @@
 # Uploading a Dataset
 
 > Always use mtg-info@upf.edu to upload your dataset.
+> Make sure the dataset has no errors and is well structured to be compatitble with `mirdata`
 
 1. Once you have the dataset ready, create a zip file. You can include multiple zip files.
 
@@ -14,7 +15,7 @@
 
 ![](res/dragdrop.jpg)
 
-4. Fill in the basic information section. Include the DOI of the paper that is associated with the dataset.
+4. Fill in the basic information section. In the DOI section, select no and click get DOI.
 
 ![](res/basic.jpg)
 
